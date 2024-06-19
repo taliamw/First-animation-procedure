@@ -1,2 +1,2 @@
-# First-animation-procedure
+# Alice-animation-procedure
 A short, simple and straightforward animation procedure using Alice. This was for a bit of practice on Alice. Basically, it's a short animation where I use basic methods provided in Alice such as moving, turning and changing positions of different characters. It was fun and easy. It involves a female character and two male characters whereby the female character commits a crime and gets away with it.
